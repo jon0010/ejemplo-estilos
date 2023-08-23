@@ -19,8 +19,9 @@ function Home() {
           <h2>hola</h2>
         </div>
       </div>
-      <div><h3>ayudando a jon con los estilos</h3>
-</div>
+      <div>
+        <h3 className="fs-1 bg-primary col-4 text-center mx-auto">ayudando a jon con los estilos</h3>
+      </div>
       <StickyFooter />
     </div>
   );

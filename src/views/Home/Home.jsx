@@ -19,6 +19,8 @@ function Home() {
           <h2>hola</h2>
         </div>
       </div>
+      <div><h3>ayudando a jon con los estilos</h3>
+</div>
       <StickyFooter />
     </div>
   );
